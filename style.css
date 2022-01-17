@@ -1,0 +1,18 @@
+body{
+  background: #E2E8DD;
+}
+
+.header_div{
+  background-color: #95A3A4;
+  color: white; 
+  font-family: cursive;
+  font-weight: bolder;
+  margin-top: -20px;
+  }
+  .header_div p{
+      font-family: monospace;
+      color: white;
+  }
+  center{
+      text-align: center;
+  }
